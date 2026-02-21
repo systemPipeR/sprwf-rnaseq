@@ -1,4 +1,4 @@
-## Generic Workflow Template for systemPipeR WMS
+## RNA-Seq Workflow Template for systemPipeR WMS
 
 <p align="right">
   <a href="https://systempipe.org/sprwf-rnaseq/systemPipeRNAseq.html">
